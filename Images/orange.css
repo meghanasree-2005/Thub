@@ -1,0 +1,165 @@
+.div{
+    height: 3200px;
+    width: 800px;
+}
+.a{
+    padding-left: 20px;
+}
+.b{
+    float: right;
+    height: 400px;
+    margin-bottom: 50%;
+}
+.c{
+    height: 150px;
+    width: 430px;
+    padding-left: 50px;
+    padding-top: 200px;
+}    
+.d{
+    border-radius: 100%;
+    height:200px;
+    width: 200px;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+.centered{
+    color: white;
+    height: 400px;
+    width:800px;
+    background-color:rgb(244, 223, 102);
+    text-align: center;
+}
+.img1{
+    height:400px;
+    width:800px;
+    text-align: center;
+}
+.button{
+    background-color: lime;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: cenetr;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.button2{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+.avacado{
+    color: white;
+    height: 400px;
+    width:790px;
+    background-color:rgb(244, 223, 102);
+}
+.avacado1{
+    color: white;
+    height:350px;
+    width:345px;
+    background-color:rgb(244, 223, 102);
+    text-align:left;
+    padding-left:50px;
+    padding-top: 50px;
+    float: left;
+}
+.avacado2{
+    color: white;
+    height:350px;
+    width:345px;
+    background-color:rgb(244, 223, 102);
+    margin-top:30px;
+    margin-left:20px;
+    float: left;
+}
+img{
+    height:350px;
+    width:345px;
+}
+.button3{
+    background-color: lime;
+    color: white;
+    border-radius: 20px;
+}
+.cooking{
+    height: 500px;
+    width: 800px;
+    text-align: center;
+    background-color: lightyellow;
+}
+.button4{
+    background-color: lime;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+.h1{
+    font-size: 40px;
+}
+.p{
+    text-align: center;
+}
+.ice-cream{
+    height: 400px;
+    width: 800px;
+    background-color:rgb(244, 223, 102);
+}
+.inner{
+    height: 400px;
+    width: 600px;
+    text-align: justify;
+    background-color:rgb(244, 223, 102);
+}
+.button5{
+    background-color: lime;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+.fresh-food{
+    height: 400px;
+    width: 800px;
+    background-color: lightyellow;
+    text-align: justify;
+}
+.organic{
+    height: 400px;
+    width: 800px;
+    background-color: lightyellow;
+}
+.button6{
+    background-color: lime;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+.empty{
+    height: 300px;
+    width: 800px;
+    background-color:rgb(244, 223, 102);
+}
+input{
+    border-radius: 20px;
+    border-color: lawngreen;
+    background-color:rgb(244, 223, 102);
+}
+.button7{
+    background-color: lime;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    height: 20px;
+    width: 370px;
+}
+.black{
+    height: 100px;
+    width: 800px;
+    background-color:rgb(86, 93, 75);
+    color: white;
+}

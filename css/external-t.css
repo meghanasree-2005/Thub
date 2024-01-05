@@ -1,0 +1,43 @@
+div{
+    height: 350px;
+    width: 350px; 
+    background-color :white; 
+    border :5px solid black;
+}
+table,td
+{
+    border-collapse: collapse;
+}
+.a{
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+}
+.b{
+    border-top: 2px solid white;
+}
+.c{
+    border-top: 2px solid white;
+    border-right: 2px solid white;
+}
+.d{
+    border-bottom: 2px solid white;
+    border-left: 2px solid white;
+}
+.e{
+    border-bottom: 2px solid white;
+}
+.f{
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+}
+.g{
+    border-left: 2px solid white;
+}
+.h{
+    border-right: 2px solid white;
+}
+
+
+
+
+

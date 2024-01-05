@@ -1,0 +1,39 @@
+.external{
+    font-size: 25px;
+    border: 1px solid blue;
+    background-color: paleturquoise;
+}
+#main{
+    height: 200px;
+    width: 200px;
+    background-color: deeppink;
+}   
+span{
+    color: yellow;
+    font-size: 25px;
+    font-family: serif;
+} 
+*{
+    font-family: 'Courier New', Courier, monospace;
+    margin :0px;
+    padding: 0px;
+}
+input[type="text"]{
+    color: darkorchid;
+}
+/*a[href]{
+    background-color: goldenrod;
+}*/
+a:link{
+    color: greenyellow;
+}
+a:visited{
+    color: rgb(6, 239, 6);
+}
+a:hover{
+    font-size: 30px;
+    color:aquamarine;
+}
+a:active{
+    color:brown;
+}

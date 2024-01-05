@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF8">
+        <meta name="viewport" content="width-device-width-scale-1.0">
+        <title>Positions</title>
+        <style>
+            .a{
+                height:100px;
+                width: 100px;
+                float: left;
+                background-color: blue;
+            }    
+            .b{
+                height:100px;
+                width: 100px;
+                float: left;
+                margin-top: 82px;
+                background-color: greenyellow;
+                position: absolute;
+            }  
+            .q{
+                height:100px;
+                width: 100px;
+                float: left;
+                margin-top: 164px;
+                background-color: blue;
+                position: absolute;
+            } 
+            .c{
+                height:100px;
+                width: 100px;
+                float: left;
+                background-color: blue;
+            }  
+            .d{
+                height:100px;
+                width: 100px;
+                float: left;
+                margin-top: 100px;
+                background-color: greenyellow;
+                position: relative;
+            }   
+            .r{
+                height:100px;
+                width: 100px;
+                float: left;
+                background-color: blue;
+            } 
+            .e{
+                height:100px;
+                width: 100px;
+                float: left;
+                background-color: blue;
+            }  
+            .f{
+                height:100px;
+                width: 100px;
+                float: left;
+                margin-top: 82px;
+                background-color: blue;
+                position: absolute;     
+            .seperate{
+                height:100px;
+                width: 100px;
+                float: right;
+                background-color: greenyellow;
+                position: relative;
+            }
+            .main{
+                height: 350px;
+                width: 220px;
+                border: 1px solid black;
+            }
+            table,td,th{
+                background-color: aliceblue;
+                border: 1px solid black;
+                border-collapse: collapse;
+            }
+        </style>
+    </head>
+    <body>
+        <center><h2>Positions in CSS</h2></center>
+        <hr>
+        <div class="seperate">fixed</div>
+        <div class="total"></div>
+        <table border="collapse">
+                <th><h3>position: static</h3>
+                <div class="main">
+                    <div class="a"></div><br>
+                    <div class="b">static</div><br>
+                    <div class="q"></div><br>
+                </div>
+                </th>
+                <th><h3>position: relative</h3>
+                <div class="main">
+                    <div class="c"></div><br>
+                    <div class="d"></div><br>
+                    <div class="r"></div><br>
+                </div>
+                </th>
+                <th><h3>position: absolut</h3>
+                <div class="main">
+                    <div class="e"></div><br>
+                    <div class="f"></div><br>
+                </div>
+                </th>
+                <th><h3>opsition: fixed</h3>
+                <div class="main">
+                    <div class="g"></div><br>
+                    <div class="h"></div><br>
+                </div>
+                </th>
+                <tr>
+                    <td><h3>position: sticky(top)</h3>
+                    <div class="main">
+                        <div class="i"></div><br>
+                        <div class="j"></div><br>
+                    </div>
+                    </td>
+                    <td><h3>position: sticky(bottom)</h3>
+                    <div class="main">
+                        <div class="k"></div><br>
+                        <div class="l"></div><br>
+                    </div>
+                    </td>
+                    <td><h3>position: sticky(left)</h3>
+                    <div class="main">
+                        <div class="m"></div><br>
+                        <div class="n"></div><br>
+                    </div>
+                    </td>
+                    <td><h3>position: sticky(right)</h3>
+                    <div class="main">
+                       <div class="o"></div><br>
+                       <div class="p"></div><br>
+                    </div>
+                    </td>
+                </tr>
+            </table> 
+        </div>       
+    </body>
+</html>      

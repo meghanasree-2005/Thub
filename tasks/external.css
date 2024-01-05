@@ -1,0 +1,160 @@
+.main{
+    height: 500px;
+    width: 600px;
+    background-color: aqua;
+}
+.a{
+    height: 500px;
+    width: 100px;
+    background-color: blue;
+    float: left;
+}
+.b{
+    height:100px;
+    width:100px;
+    background-color: brown;
+    float: left;
+}
+.c{
+    height:300px;
+    width:100px;
+    background-color: blueviolet;
+    float: left;
+}
+.d{
+    height:100px;
+    width:50px;
+    background-color: cadetblue;
+    float: left;
+}
+.e{
+    height:500px;
+    width:500px;
+    background-color: chartreuse;
+    float:left;
+}
+.f{
+    height:100px;
+    width:500px;
+    background-color:chocolate;
+    float:left;
+}
+.g{
+    height:100px;
+    width:100px;
+    background-color:plum;
+    float:right;
+}
+.h{
+    height:50px;
+    width:100px;
+    background-color:crimson;
+    float:left;
+}
+.i{
+    height:50px;
+    width:50px;
+    background-color:cornflowerblue;
+    float:left;
+}
+.j{
+    height:400px;
+    width:500px;
+    background-color:crimson;
+    float:left;
+}
+.k{
+    height:100px;
+    width:500px;
+    background-color:cyan;
+    float:left;
+}
+.l{
+    height:300px;
+    width:500px;
+    background-color:darkblue;
+    float:left;
+}
+.m{
+    height:300px;
+    width:100px;
+    background-color:darkcyan;
+    float:left;
+}
+.n{
+    height:200px;
+    width:100px;
+    background-color:yellow;
+}
+.o{
+    height:200px;
+    width:50px;
+    background-color:pink;
+    float:left;
+}
+.a{
+    height:100px;
+    width:100px;
+    background-color:skyblue;
+    float:left;
+}
+.z{
+    height:300px;
+    width:100px;
+    background-color:greenyellow;
+    float: left;
+}
+.p{
+    height:300px;
+    width:300px;
+    background-color:burlywood;
+    float:right;
+}
+.q{
+    height:100px;
+    width:300px;
+    background-color:gray;
+    float:left;
+}
+.r{
+    height:200px;
+    width:100px;
+    background-color:antiquewhite;
+    float:left;
+}
+.s{
+    height:200px;
+    width:100px;
+    background-color:khaki;
+    float:left;
+}
+.t{
+    height:200px;
+    width:100px;
+    background-color:seagreen;
+    float:right;
+}
+.u{
+    height:100px;
+    width:100px;
+    background-color: violet;
+}
+.v{
+    height:100px;
+    width:50px;
+    background-color:palevioletred;
+}
+.w{
+    height:100px;
+    width:100px;
+    background-color:red;
+}
+.x{
+    height:100px;
+    width:50px;
+    background-color:black;
+}
+
+
+
+
